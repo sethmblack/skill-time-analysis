@@ -3,8 +3,8 @@ name: time-analysis
 description: Diagnose how you actually spend your time and develop a plan to reclaim effectiveness through Drucker's time management framework.
 license: MIT
 metadata:
-  version: 1.0.5191
   author: sethmblack
+  version: 1.0.5192
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - time-analysis
